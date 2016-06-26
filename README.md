@@ -1,7 +1,8 @@
+[![Build Status](https://travis-ci.org/perseacado/feedback-ui-sample.svg?branch=master)](https://travis-ci.org/perseacado/feedback-ui-sample)
 ![Heroku](https://heroku-badge.herokuapp.com/?app=feedback-ui-sample&root=/sample)
 
 # feedback-ui-sample
-A sample application that showcases the usage of feedback-ui.
+A sample application that showcases the usage of [feedback-ui](https://github.com/perseacado/feedback-ui).
 
 ## Demo
 You can access the demo [here](https://feedback-ui-sample.herokuapp.com/sample).
